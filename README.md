@@ -4,7 +4,7 @@
 
 ![TDD](https://img.shields.io/badge/Test%20Driven-Development-blue)
 ![CleanCode](https://img.shields.io/badge/Clean-Coding-blue)
-![SoftwareCraftmanship](https://img.shields.io/badge/Software-Craftmanship%20-blue)
+![SoftwareCraftsmanship](https://img.shields.io/badge/Software-Craftsmanship%20-blue)
 
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
